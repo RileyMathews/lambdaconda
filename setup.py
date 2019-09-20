@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdaconda",
-    version="0.0.2",
+    version="0.0.3",
     author="Riley Mathews",
     author_email="rileymathews80@gmail.com",
     description="Playing around with an AWS lambda library",
